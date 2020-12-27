@@ -22,7 +22,7 @@ See : [doc/training.md](./doc/training.md)
 python ./FaceRecognition.py --video=./data_test/face_test.mp4
 ```
    - class: Ta 
-     <img src="./markdown/face_ta.png">
+   <img src="./markdown/face_ta.png">
 
 
 
