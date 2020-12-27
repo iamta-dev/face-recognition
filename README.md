@@ -1,7 +1,7 @@
 # Face Recognition
 
 ### AI ตรวจจับเเละจดจำใบหน้า
-ฺ
+
 ### Package Install
 
 Install dlib v19 on Ubuntu
