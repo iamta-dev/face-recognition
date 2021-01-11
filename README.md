@@ -19,7 +19,6 @@ See : [doc/training.md](./doc/training.md)
 
 ### Test - AI  
 ```
-```
 $ git clone https://github.com/newler55/face-recognition.git
 $ python ./FaceRecognition.py --video=./data_test/face_test.mp4
 ```
